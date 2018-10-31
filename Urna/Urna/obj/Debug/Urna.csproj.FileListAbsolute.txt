@@ -1,0 +1,38 @@
+E:\Executaveis liberados\AGR VAI\ta\Urna\Urna\obj\Debug\UrnaEletronica.Form1.resources
+E:\Executaveis liberados\AGR VAI\ta\Urna\Urna\obj\Debug\Urna.Properties.Resources.resources
+E:\Executaveis liberados\AGR VAI\ta\Urna\Urna\obj\Debug\Urna.csproj.GenerateResource.Cache
+E:\Executaveis liberados\AGR VAI\ta\Urna\Urna\bin\Debug\Urna.exe.config
+E:\Executaveis liberados\AGR VAI\ta\Urna\Urna\bin\Debug\Urna.exe
+E:\Executaveis liberados\AGR VAI\ta\Urna\Urna\bin\Debug\Urna.pdb
+E:\Executaveis liberados\AGR VAI\ta\Urna\Urna\obj\Debug\Urna.exe
+E:\Executaveis liberados\AGR VAI\ta\Urna\Urna\obj\Debug\Urna.pdb
+E:\Executaveis liberados\AGR VAI\ta\Urna\Urna\obj\Debug\Urna.csprojResolveAssemblyReference.cache
+C:\Users\shit\Downloads\ta-20181031T023016Z-001\ta\Urna\Urna\bin\Debug\Urna.exe.config
+C:\Users\shit\Downloads\ta-20181031T023016Z-001\ta\Urna\Urna\bin\Debug\Urna.exe
+C:\Users\shit\Downloads\ta-20181031T023016Z-001\ta\Urna\Urna\bin\Debug\Urna.pdb
+C:\Users\shit\Downloads\ta-20181031T023016Z-001\ta\Urna\Urna\obj\Debug\Urna.csprojAssemblyReference.cache
+C:\Users\shit\Downloads\ta-20181031T023016Z-001\ta\Urna\Urna\obj\Debug\UrnaEletronica.Form1.resources
+C:\Users\shit\Downloads\ta-20181031T023016Z-001\ta\Urna\Urna\obj\Debug\Urna.Properties.Resources.resources
+C:\Users\shit\Downloads\ta-20181031T023016Z-001\ta\Urna\Urna\obj\Debug\Urna.csproj.GenerateResource.cache
+C:\Users\shit\Downloads\ta-20181031T023016Z-001\ta\Urna\Urna\obj\Debug\Urna.csproj.CoreCompileInputs.cache
+C:\Users\shit\Downloads\ta-20181031T023016Z-001\ta\Urna\Urna\obj\Debug\Urna.exe
+C:\Users\shit\Downloads\ta-20181031T023016Z-001\ta\Urna\Urna\obj\Debug\Urna.pdb
+C:\Users\User\Downloads\Urna-20181031T120158Z-001\Urna\Urna\bin\Debug\Urna.exe.config
+C:\Users\User\Downloads\Urna-20181031T120158Z-001\Urna\Urna\bin\Debug\Urna.exe
+C:\Users\User\Downloads\Urna-20181031T120158Z-001\Urna\Urna\bin\Debug\Urna.pdb
+C:\Users\User\Downloads\Urna-20181031T120158Z-001\Urna\Urna\obj\Debug\Urna.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Urna-20181031T120158Z-001\Urna\Urna\obj\Debug\UrnaEletronica.Form1.resources
+C:\Users\User\Downloads\Urna-20181031T120158Z-001\Urna\Urna\obj\Debug\Urna.Properties.Resources.resources
+C:\Users\User\Downloads\Urna-20181031T120158Z-001\Urna\Urna\obj\Debug\Urna.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Urna-20181031T120158Z-001\Urna\Urna\obj\Debug\Urna.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Urna-20181031T120158Z-001\Urna\Urna\obj\Debug\Urna.exe
+C:\Users\User\Downloads\Urna-20181031T120158Z-001\Urna\Urna\obj\Debug\Urna.pdb
+E:\Executaveis liberados\Urna-master\Urna\Urna\bin\Debug\Urna.exe.config
+E:\Executaveis liberados\Urna-master\Urna\Urna\obj\Debug\Urna.exe
+E:\Executaveis liberados\Urna-master\Urna\Urna\obj\Debug\Urna.pdb
+E:\Executaveis liberados\Urna-master\Urna\Urna\bin\Debug\Urna.exe
+E:\Executaveis liberados\Urna-master\Urna\Urna\bin\Debug\Urna.pdb
+E:\Executaveis liberados\Urna-master\Urna\Urna\obj\Debug\Urna.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\Urna-master\Urna\Urna\obj\Debug\UrnaEletronica.Form1.resources
+E:\Executaveis liberados\Urna-master\Urna\Urna\obj\Debug\Urna.Properties.Resources.resources
+E:\Executaveis liberados\Urna-master\Urna\Urna\obj\Debug\Urna.csproj.GenerateResource.Cache
