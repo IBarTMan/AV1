@@ -1,0 +1,9 @@
+E:\Executaveis liberados\Jogo\Jogo\Jogo\bin\Debug\Jogo.exe.config
+E:\Executaveis liberados\Jogo\Jogo\Jogo\bin\Debug\Jogo.exe
+E:\Executaveis liberados\Jogo\Jogo\Jogo\bin\Debug\Jogo.pdb
+E:\Executaveis liberados\Jogo\Jogo\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\Jogo\Jogo\Jogo\obj\Debug\Jogo.Form1.resources
+E:\Executaveis liberados\Jogo\Jogo\Jogo\obj\Debug\Jogo.Properties.Resources.resources
+E:\Executaveis liberados\Jogo\Jogo\Jogo\obj\Debug\Jogo.csproj.GenerateResource.Cache
+E:\Executaveis liberados\Jogo\Jogo\Jogo\obj\Debug\Jogo.exe
+E:\Executaveis liberados\Jogo\Jogo\Jogo\obj\Debug\Jogo.pdb
